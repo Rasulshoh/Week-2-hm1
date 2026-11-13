@@ -1,9 +1,9 @@
 public class Player
 {
-    public string Name { get; set; } = string.Empty;
-    public int Number { get; set; }
-    public string Position { get; set; } = string.Empty;
-    public string Team { get; set; } = string.Empty;
+    public string Name = string.Empty;
+    public int Number;
+    public string Position = string.Empty;
+    public string Team = string.Empty;
 
     public void ScoreGoal()
     {

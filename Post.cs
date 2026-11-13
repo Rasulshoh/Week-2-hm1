@@ -1,8 +1,8 @@
 public class Post
 {
-    public string Text { get; private set; } = string.Empty;
-    public int Likes { get; private set; }
-    public List<string> Comments { get; } = new();
+    public string Text = string.Empty;
+    public int Likes;
+    public List<string> Comments = new();
 
     public void SetPost(string text)
     {

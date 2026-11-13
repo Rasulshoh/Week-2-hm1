@@ -2,11 +2,11 @@ using System.Globalization;
 
 public class Employee
 {
-    public string FirstName { get; set; } = string.Empty;
-    public string LastName { get; set; } = string.Empty;
-    public int Age { get; set; }
-    public string Position { get; set; } = string.Empty;
-    public decimal Salary { get; private set; }
+    public string FirstName = string.Empty;
+    public string LastName = string.Empty;
+    public int Age;
+    public string Position = string.Empty;
+    public decimal Salary;
 
     public void SetSalary(decimal salary)
     {
