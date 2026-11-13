@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\clas\bin\Debug\net10.0\clas.exe
+C:\Users\Admin\Desktop\clas\bin\Debug\net10.0\clas.deps.json
+C:\Users\Admin\Desktop\clas\bin\Debug\net10.0\clas.runtimeconfig.json
+C:\Users\Admin\Desktop\clas\bin\Debug\net10.0\clas.dll
+C:\Users\Admin\Desktop\clas\bin\Debug\net10.0\clas.pdb
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.AssemblyInfo.cs
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.dll
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\refint\clas.dll
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.pdb
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\clas.genruntimeconfig.cache
+C:\Users\Admin\Desktop\clas\obj\Debug\net10.0\ref\clas.dll
